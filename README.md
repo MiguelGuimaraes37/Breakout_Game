@@ -23,7 +23,7 @@ Collaborators:
 
 - Rui Almeida -> https://github.com/ruialmeida10;
 - Goncalo Henriques -> https://github.com/Gonzo1816;
-- Ines Paulino.
+- Ines Paulino -> https://github.com/inespaulino.
 
 We're now working on a feature to make it possible to restart the game.
 
