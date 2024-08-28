@@ -17,7 +17,7 @@ Loosing View:
 
 Game execution view:
 
-<img src="https://github.com/user-attachments/assets/c507b288-be32-44b3-a3c0-7074babf6899" alt="Winning image">
+<img src="https://github.com/user-attachments/assets/ce795e07-4692-48f6-8f27-13488d20a896" alt="Winning image">
 
 Collaborators:
 
